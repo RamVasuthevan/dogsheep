@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 datasette = "*"
+pocket-to-sqlite = "*"
 
 [dev-packages]
 

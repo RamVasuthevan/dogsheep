@@ -1,0 +1,5 @@
+{
+    "pocket_consumer_key": "AUTH_JSON_POCKET_CONSUMER_KEY",
+    "pocket_username": "AUTH_JSON_POCKET_USERNAME",
+    "pocket_access_token": "AUTH_JSON_POCKET_ACCESS_TOKEN"
+}
