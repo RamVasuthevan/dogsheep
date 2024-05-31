@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "818cbbc6367609cc284ee3586af6891416f7757e5bbd43f9284bb8a9d1b43793"
+            "sha256": "8c85149c14b6c97bb6f54cb03741f90dbab455aec250f6cef5a2e1fae10c3cca"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -175,6 +175,14 @@
             "index": "pypi",
             "markers": "python_version >= '3.7'",
             "version": "==0.64.6"
+        },
+        "datasette-auth-passwords": {
+            "hashes": [
+                "sha256:37ff70aa8e10a52ac9047a843a2d90b2b2598aba4f89f918abe4f6c117150953",
+                "sha256:6409376b12c84efbfb7bfe92c54546e4c27b64c63774c29b84bd8fd83ea838d8"
+            ],
+            "index": "pypi",
+            "version": "==1.1"
         },
         "exceptiongroup": {
             "hashes": [
