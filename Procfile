@@ -1,1 +1,1 @@
-web: find /data -name "*.db" -exec cp {} . \; && datasette . -h 0.0.0.0 -p $PORT --cors
+web: cp /data/pocket/pocket.db . && datasette . -h 0.0.0.0 -p $PORT --cors
