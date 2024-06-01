@@ -1,2 +1,3 @@
-# Datasette Secrets
+# Datasette
 auth.json
+*.db
