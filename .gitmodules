@@ -1,5 +1,4 @@
 [submodule "data"]
     path = data
     url = https://github.com/RamVasuthevan/dogsheep-data.git
-    shallow = true
-    depth = 1
+    branch = main
