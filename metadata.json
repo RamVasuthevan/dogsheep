@@ -1,0 +1,13 @@
+{
+    "title": "My private Datasette instance",
+    "plugins": {
+        "datasette-auth-passwords": {
+            "ram_password_hash": {
+                "$env": "PASSWORD_HASH_1"
+            }
+        }
+    },
+    "allow": {
+        "id": "ram"
+    }
+}
